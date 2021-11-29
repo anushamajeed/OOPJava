@@ -1,0 +1,2 @@
+8000 0
+red orange yellow blue green indigo violet 
